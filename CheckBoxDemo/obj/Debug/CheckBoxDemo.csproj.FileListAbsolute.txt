@@ -1,0 +1,9 @@
+D:\DOT NET\CheckBoxDemo\CheckBoxDemo\bin\CheckBoxDemo.dll.config
+D:\DOT NET\CheckBoxDemo\CheckBoxDemo\bin\CheckBoxDemo.dll
+D:\DOT NET\CheckBoxDemo\CheckBoxDemo\bin\CheckBoxDemo.pdb
+D:\DOT NET\CheckBoxDemo\CheckBoxDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DOT NET\CheckBoxDemo\CheckBoxDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DOT NET\CheckBoxDemo\CheckBoxDemo\obj\Debug\CheckBoxDemo.csprojResolveAssemblyReference.cache
+D:\DOT NET\CheckBoxDemo\CheckBoxDemo\obj\Debug\CheckBoxDemo.csproj.CoreCompileInputs.cache
+D:\DOT NET\CheckBoxDemo\CheckBoxDemo\obj\Debug\CheckBoxDemo.dll
+D:\DOT NET\CheckBoxDemo\CheckBoxDemo\obj\Debug\CheckBoxDemo.pdb
